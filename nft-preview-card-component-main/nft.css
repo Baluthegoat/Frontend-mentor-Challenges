@@ -32,13 +32,11 @@ a {
   --fc-soft-blue: hsl(215, 51%, 70%);
 }
 
-/* reusable classes */
+
 .flex-container {
   display: flex;
   align-items: center;
 }
-
-/* card */
 body {
   min-height: 100vh;
   display: grid;
